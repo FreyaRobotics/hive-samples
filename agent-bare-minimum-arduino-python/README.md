@@ -9,7 +9,7 @@ This is a sample for controlling the Arduino from Python
     pip3 install pyserial
     (or)
     pip install pyserial
-    
+
 if you already familiar with Python installing python packages you could execute the following:
 
     pip3 install -r requirements.txt
@@ -17,7 +17,7 @@ if you already familiar with Python installing python packages you could execute
     pip install -r requirements.txt
 
 4. Flush robot_firmware to your Arduino
-5. Start the robot_control.py script
+5. Start the robot_control.py script:
 
     python3 robot_control.py
     (or)
